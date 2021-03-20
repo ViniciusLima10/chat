@@ -1,0 +1,21 @@
+:root {
+    --black: #222831;
+    --grey: #393e46;
+    --yellow: #ffd369;
+    --white: #eeeeee;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--black)
+}
+
+li {
+    list-style: none;
+}
+
+#messages {
+    background-color: var(--grey);
+    width: 500px;
+    height: 500px
+}
